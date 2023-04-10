@@ -5,7 +5,7 @@
 Since the rawData and the data after cleaning are large, so we upload the data in Google Drive. Please download the datasets and put them to the right path.
 
 Original Data Link: https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
-Google Drive Link: https://drive.google.com/file/d/14irqyE21ooYZhzX4A-AAAScZECqnOmX3/view?usp=sharing
+Google Drive Link: https://drive.google.com/drive/u/0/folders/13tDk-fZkqkmCt4E_BXqxN19YnTkP4peR
 
 #### 1.2. File Path  
 
