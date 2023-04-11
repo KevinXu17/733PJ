@@ -1,4 +1,5 @@
 # 733PJ
+##Our website is deployed at http://35.93.27.89:8080/, the server will be up for at least one month (starting from 4/9/2023)
 
 ### 1 Data Cleaning
 #### 1.1. Data Link
@@ -31,3 +32,5 @@ review_body       - The review text. <br>
 review_date       - The date the review was written. <br>
 
 #### 1.4 Run Data Process
+
+#### The website code is inside website folder, for commit details check https://github.com/jieyuan-bi/733
