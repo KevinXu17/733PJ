@@ -1,5 +1,8 @@
 # 733PJ
-##Our website is deployed at http://35.93.27.89:8080/, the server will be up for at least one month (starting from 4/9/2023)
+#### Our website is deployed at http://35.93.27.89:8080/, the server will be up for at least one month (starting from 4/9/2023)
+
+### poster
+![Postert](https://github.com/KevinXu17/733PJ/blob/main/other_documents/poster.png?raw=true)
 
 ### 1 Data Cleaning
 #### 1.1. Data Link
